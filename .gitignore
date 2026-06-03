@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration
+config.json
+
+# Local agent directories & workspaces
+.agents/
+
+# Logs and outputs
+output.log
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
