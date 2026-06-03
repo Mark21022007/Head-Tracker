@@ -13,11 +13,6 @@ Equipped with a premium **OLED / Dark Slate Settings Panel**, the application su
 * **Proportional Headroom Offset**: Automatically shifts the frame slightly upward from the neck center to minimize excess headroom, providing a professional and natural camera frame.
 * **Proportional Control System**: Leverages a dual-deadzone structure (inner/outer deadzones) to drive smooth, speed-scaled pan and tilt commands, preventing jitter while remaining highly responsive.
 
-### 🎛️ Premium Settings Control Panel
-* **Modern OLED / Dark Slate UI**: Redesigned Tkinter settings panel styled after professional dark-mode design systems.
-* **Interactive Bento Grid Layout**: Grouped connection, configuration, speed parameters, and control bindings into isolated card surfaces.
-* **Custom Scroll Container**: Smooth vertical canvas scrolling with a styled dark-slate scrollbar to fit long forms on compact screens.
-
 ### ⌨️ Customizable Keyboard & Mouse Bindings
 * **Any-Key Mapping**: Map pan, tilt, zoom, toggle, and stop functions to any standard keyboard key (including Arrows, Space, and Enter).
 * **Mouse Event Capture**: Bind controls to standard mouse clicks (Left, Middle, Right click).
